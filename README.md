@@ -45,7 +45,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Kitware/kwiver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kitware&repo=kwiver&theme=tokyonight" alt="kwiver Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kitware&repo=kwiver&theme=outrun" alt="kwiver Stats" />
   </a>
 </p>
 
@@ -56,7 +56,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Slicer/Slicer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slicer&repo=Slicer&theme=tokyonight" alt="Slicer Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slicer&repo=Slicer&theme=outrun" alt="Slicer Stats" />
   </a>
 </p>
 
@@ -71,9 +71,9 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aramSofthenge&show_icons=true&theme=tokyonight&include_all_commits=true&show_owner=true&border_color=531785" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aramSofthenge&show_icons=true&theme=outrun&include_all_commits=true&show_owner=true&border_color=531785" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aramSofthenge&theme=tokyonight&layout=compact&border_color=531785&exclude_repo=Coursework1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aramSofthenge&theme=outrun&layout=compact&border_color=531785&exclude_repo=Coursework1" />
 </p>
 
 <br>
@@ -86,7 +86,7 @@ Creating new pull requests on Kitware projects
 <!-- END SECTION -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aramSofthenge&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aramSofthenge&theme=outrun" />
 </p>
 
 
