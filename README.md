@@ -12,7 +12,7 @@
 # I'm Aram Harutyunyan
 ### Software Engineer & System Programmer
 
-![Profile Views](https://komarev.com/ghpvc/?username=funkvay-star&color=640eab)
+![Profile Views](https://komarev.com/ghpvc/?username=aramSofthenge&color=640eab)
 
 
 <!-- How to contact me -->
@@ -36,21 +36,30 @@
 <!-- My projects -->
 <br />
 
-<div><h3>The projects I am currently working on: </h3></div>
+<div><h3>The projects I am currently contributing to: </h3></div>
 
 <p align="center">
-  <a href="https://github.com/funkvay-star/EduCloud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=funkvay-star&repo=EduCloud&border_color=531785&theme=tokyonight" />
+  <a href="https://github.com/Kitware/kwiver">
+    <img src="https://github.com/Kitware/kwiver/raw/master/doc/kwiver_Logo-300x78.png" alt="kwiver Logo" width="300" height="78" />
   </a>
-  <br>
-  <a href="https://github.com/funkvay-star/Csv_json_converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=funkvay-star&repo=Csv_json_converter&border_color=531785&theme=tokyonight" />
+</p>
+<p align="center">
+  <a href="https://github.com/Kitware/kwiver">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kitware&repo=kwiver&theme=tokyonight" alt="kwiver Stats" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Slicer/Slicer">
+    <img src="https://avatars.githubusercontent.com/u/324362?s=200&v=4" alt="Slicer Logo" width="100" height="100" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Slicer/Slicer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Slicer&repo=Slicer&theme=tokyonight" alt="Slicer Stats" />
+  </a>
+</p>
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=funkvay-star&repo=EduCloud&border_color=531785&theme=tokyonight)](https://github.com/funkvay-star/EduCloud)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=funkvay-star&repo=Csv_json_converter&border_color=531785&theme=tokyonight)](https://github.com/funkvay-star/Csv_json_converter) -->
 
 <br />
 
@@ -62,28 +71,22 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=funkvay-star&show_icons=true&theme=tokyonight&include_all_commits=true&show_owner=true&border_color=531785" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aramSofthenge&show_icons=true&theme=tokyonight&include_all_commits=true&show_owner=true&border_color=531785" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funkvay-star&theme=tokyonight&layout=compact&border_color=531785&exclude_repo=Coursework1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aramSofthenge&theme=tokyonight&layout=compact&border_color=531785&exclude_repo=Coursework1" />
 </p>
-
-
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=funkvay-star&show_icons=true&theme=tokyonight&include_all_commits=true&show_owner=true&border_color=531785) -->
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=funkvay-star&show_icons=true&theme=radical&include_all_commits=true&show_owner=true&border_color=531785) -->
-
 
 <br>
 
 📊 **This week I spent my time on**
 <!-- START SECTION -->
 ```text
-Developing my EduCloud telegram bot
+Creating new pull requests on Kitware projects
 ```
 <!-- END SECTION -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=funkvay-star&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aramSofthenge&theme=tokyo-night" />
 </p>
 
 
