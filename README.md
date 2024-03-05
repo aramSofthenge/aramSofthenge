@@ -86,7 +86,7 @@ Creating new pull requests on Kitware projects
 <!-- END SECTION -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aramSofthenge&theme=outrun" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aramSofthenge&theme=tokyo-night" />
 </p>
 
 
